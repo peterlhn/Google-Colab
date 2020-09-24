@@ -1,0 +1,17 @@
+# Load the CSV data into DataFrames - F1
+drivers = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Kaggle_Data_Set/F1/drivers.csv')
+constructors = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Kaggle_Data_Set/F1/constructors.csv')
+races = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Kaggle_Data_Set/F1/races.csv')
+results = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Kaggle_Data_Set/F1/results.csv')
+
+
+bicycle_parking = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/CA_Open_Data/CKAN/bicycle-parking-high-capacity-outdoor_202009.csv')
+
+
+wb_pop = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Notes_Dataset_Sample/wb_pop_20200826.csv')
+wb_data = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Notes_Dataset_Sample/wb_pop_20200826.csv')
+
+# Load the CSV data into DataFrames - Superbow
+super_bowls = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/datasets/super_bowls.csv')
+tv = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/datasets/tv.csv')
+halftime = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/datasets/super_bowls.csv')
