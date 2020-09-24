@@ -15,3 +15,8 @@ wb_data = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/m
 super_bowls = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/datasets/super_bowls.csv')
 tv = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/datasets/tv.csv')
 halftime = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/TV%2C%20Halftime%20Shows%2C%20and%20the%20Big%20Game/datasets/super_bowls.csv')
+
+
+# Load the CSV data into DataFrames - Superbow
+app_with_dup = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/The%20Android%20App%20Market%20on%20Google%20Play/datasets/apps.csv')
+reviews = pd.read_csv('https://raw.githubusercontent.com/peterlhn/Google-Colab/master/Dataset/Datacamp_Project/The%20Android%20App%20Market%20on%20Google%20Play/datasets/user_reviews.csv')
