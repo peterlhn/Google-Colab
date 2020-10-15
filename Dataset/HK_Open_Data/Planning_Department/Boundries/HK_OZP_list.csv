@@ -1,147 +1,149 @@
-area_code,location_edit,location,office,plan_no,title,type,map_index
-H1,Kennedy Town,Kennedy Town & Mount Davis (HPA 1),Hong Kong Planning Areas,S/H1/20,Kennedy Town & Mount Davis (HPA 1) Outline Zoning Plan,OZP,1
-H3,Sai Ying Pun,Sai Ying Pun & Sheung Wan (HPA 3),Hong Kong Planning Areas,S/H3/33,Sai Ying Pun & Sheung Wan (HPA 3) Outline Zoning Plan,OZP,2
-H4,Central District,Central District (HPA 4),Hong Kong Planning Areas,S/H4/17,Central District (HPA 4) Outline Zoning Plan,OZP,3
-H5,Wan Chai,Wan Chai (HPA 5),Hong Kong Planning Areas,S/H5/28,Wan Chai (HPA 5) Outline Zoning Plan,OZP,4
-H6,Causeway Bay,Causeway Bay (HPA 6),Hong Kong Planning Areas,S/H6/17,Causeway Bay (HPA 6) Outline Zoning Plan,OZP,5
-H7,Wong Nai Chung,Wong Nai Chung (HPA 7),Hong Kong Planning Areas,S/H7/20,Wong Nai Chung (HPA 7) Outline Zoning Plan,OZP,6
-H8,North Point,North Point (HPA 8),Hong Kong Planning Areas,S/H8/26,North Point (HPA 8) Outline Zoning Plan,OZP,7
-H9,Shau Kei Wan,Shau Kei Wan (HPA 9),Hong Kong Planning Areas,S/H9/18,Shau Kei Wan (HPA 9) Outline Zoning Plan,OZP,8
-H10,Pok Fu Lam,Pok Fu Lam (HPA 10),Hong Kong Planning Areas,S/H10/18,Pok Fu Lam (HPA 10) Outline Zoning Plan,OZP,9
-H11,Mid-levels West,Mid-levels West (HPA 11),Hong Kong Planning Areas,S/H11/15,Mid-levels West (HPA 11) Outline Zoning Plan,OZP,10
-H12,Mid-levels East,Mid-levels East (HPA 12),Hong Kong Planning Areas,S/H12/12,Mid-levels East (HPA 12) Outline Zoning Plan,OZP,11
-H13,Jardine's Lookout & Wong Nai Chung Gap,Jardine's Lookout & Wong Nai Chung Gap (HPA 13),Hong Kong Planning Areas,S/H13/12,Jardine's Lookout & Wong Nai Chung Gap (HPA 13) Outline Zoning Plan,OZP,12
-H14,Peak,The Peak Area (HPA 14),Hong Kong Planning Areas,S/H14/13,The Peak Area (HPA 14) Outline Zoning Plan,OZP,13
-H15,Aberdeen and Ap Lei Chau,Aberdeen and Ap Lei Chau (HPA 15 & 16),Hong Kong Planning Areas,S/H15/33,Aberdeen and Ap Lei Chau (HPA 15 & 16) Outline Zoning Plan,OZP,14
-H17,Shouson Hill & Repulse Bay,Shouson Hill & Repulse Bay (HPA 17 Pt.),Hong Kong Planning Areas,S/H17/13,Shouson Hill & Repulse Bay (HPA 17 Pt.) Outline Zoning Plan,OZP,15
-H18,Tai Tam & Shek O,Tai Tam & Shek O (HPA 18),Hong Kong Planning Areas,S/H18/10,Tai Tam & Shek O (HPA 18) Outline Zoning Plan,OZP,16
-H19,Stanley,Stanley (HPA 19),Hong Kong Planning Areas,S/H19/13,Stanley (HPA 19) Outline Zoning Plan,OZP,17
-H20,Chai Wan,Chai Wan (HPA 20),Hong Kong Planning Areas,S/H20/24,Chai Wan (HPA 20) Outline Zoning Plan,OZP,18
-H21,Quarry Bay,Quarry Bay (HPA 21),Hong Kong Planning Areas,S/H21/28,Quarry Bay (HPA 21) Outline Zoning Plan,OZP,19
-H24,Central District,Central District (Extension) (HPA 24),Hong Kong Planning Areas,S/H24/9,Central District (Extension) (HPA 24) Outline Zoning Plan,OZP,20
-H25,Wan Chai North,Wan Chai North (HPA 25),Hong Kong Planning Areas,S/H25/4,Wan Chai North (HPA 25) Outline Zoning Plan,OZP,21
-K1,Tsim Sha Tsui,Tsim Sha Tsui (KPA 1),Kowloon Planning Areas,S/K1/28,Tsim Sha Tsui (KPA 1) Outline Zoning Plan,OZP,22
-K2,Yau Ma Tei,Yau Ma Tei (KPA 2),Kowloon Planning Areas,S/K2/22,Yau Ma Tei (KPA 2) Outline Zoning Plan,OZP,23
-K3,Mong Kok,Mong Kok (KPA 3),Kowloon Planning Areas,S/K3/32,Mong Kok (KPA 3) Outline Zoning Plan,OZP,24
-K4,Shek Kip Mei,Shek Kip Mei (KPA 4),Kowloon Planning Areas,S/K4/29,Shek Kip Mei (KPA 4) Outline Zoning Plan,OZP,25
-K5,Cheung Sha Wan,Cheung Sha Wan (KPA 5),Kowloon Planning Areas,S/K5/37,Cheung Sha Wan (KPA 5) Outline Zoning Plan,OZP,26
-K7,Ho Man Tin,Ho Man Tin (KPA 6 & 7),Kowloon Planning Areas,S/K7/24,Ho Man Tin (KPA 6 & 7) Outline Zoning Plan,OZP,27
-K8,Tung Tau,Wang Tau Hom & Tung Tau (KPA 8),Kowloon Planning Areas,S/K8/23,Wang Tau Hom & Tung Tau (KPA 8) Outline Zoning Plan,OZP,28
-K9,Hung Hom,Hung Hom (KPA 9),Kowloon Planning Areas,S/K9/26,Hung Hom (KPA 9) Outline Zoning Plan,OZP,29
-K10,Ma Tau Kok,Ma Tau Kok (KPA 10),Kowloon Planning Areas,S/K10/25,Ma Tau Kok (KPA 10) Outline Zoning Plan,OZP,30
-K11,San Po Kong,"Tsz Wan Shan, Diamond Hill & San Po Kong (KPA 11)",Kowloon Planning Areas,S/K11/29,"Tsz Wan Shan, Diamond Hill & San Po Kong (KPA 11) Outline Zoning Plan",OZP,31
-K12,Ngau Chi Wan,Ngau Chi Wan (KPA 12),Kowloon Planning Areas,S/K12/16,Ngau Chi Wan (KPA 12) Outline Zoning Plan,OZP,32
-K13,Kowloon Bay,Ngau Tau Kok & Kowloon Bay (KPA 13 & 17),Kowloon Planning Areas,S/K13/30,Ngau Tau Kok & Kowloon Bay (KPA 13 & 17) Outline Zoning Plan,OZP,33
-K14N,Kwun Tong,Kwun Tong (North) (KPA 14 Pt.),Kowloon Planning Areas,S/K14N/15,Kwun Tong (North) (KPA 14 Pt.) Outline Zoning Plan,OZP,34
-K14S,Kwun Tong,Kwun Tong (South) (KPA 14 Pt.),Kowloon Planning Areas,S/K14S/22,Kwun Tong (South) (KPA 14 Pt.) Outline Zoning Plan,OZP,35
-K15,"Cha Kwo Ling, Yau Tong, Lei Yue Mun","Cha Kwo Ling, Yau Tong, Lei Yue Mun (KPA 15)",Kowloon Planning Areas,S/K15/25,"Cha Kwo Ling, Yau Tong, Lei Yue Mun (KPA 15) Outline Zoning Plan",OZP,36
-K16,Lai Chi Kok,Lai Chi Kok (KPA 16),Kowloon Planning Areas,S/K16/16,Lai Chi Kok (KPA 16) Outline Zoning Plan,OZP,37
-K18,Kowloon Tong,Kowloon Tong (KPA 18),Kowloon Planning Areas,S/K18/21,Kowloon Tong (KPA 18) Outline Zoning Plan,OZP,38
-K20,South West Kowloon,South West Kowloon (KPA 20),Kowloon Planning Areas,S/K20/30,South West Kowloon (KPA 20) Outline Zoning Plan,OZP,39
-K22,Kai Tak,Kai Tak (KPA 22),Kowloon Planning Areas,S/K22/6,Kai Tak (KPA 22) Outline Zoning Plan,OZP,40
-FLN,Fanling North,Fanling North,New Territories and Islands,S/FLN/2,Fanling North Outline Zoning Plan,OZP,41
-FSS,Fanling / Sheung Shui,Fanling / Sheung Shui,New Territories and Islands,S/FSS/24,Fanling / Sheung Shui Outline Zoning Plan,OZP,42
-HSK,Hung Shui Kiu and Ha Tsuen,Hung Shui Kiu and Ha Tsuen,New Territories and Islands,S/HSK/2,Hung Shui Kiu and Ha Tsuen Outline Zoning Plan,OZP,43
-I-CC,Cheung Chau,Cheung Chau,New Territories and Islands,S/I-CC/8,Cheung Chau Outline Zoning Plan,OZP,44
-I-CLK,Chek Lap Kok,Chek Lap Kok,New Territories and Islands,S/I-CLK/14,Chek Lap Kok Outline Zoning Plan,OZP,45
-I-DB,Discovery Bay,Discovery Bay,New Territories and Islands,S/I-DB/4,Discovery Bay Outline Zoning Plan,OZP,46
-I-LI,Lamma Island,Lamma Island,New Territories and Islands,S/I-LI/11,Lamma Island Outline Zoning Plan,OZP,47
-I-NEL,North-East Lantau,North-East Lantau,New Territories and Islands,S/I-NEL/12,North-East Lantau Outline Zoning Plan,OZP,48
-I-MWI,Ma Wan,Ma Wan,New Territories and Islands,S/I-MWI/14,Ma Wan Outline Zoning Plan,OZP,49
-I-PC,Peng Chau,Peng Chau,New Territories and Islands,S/I-PC/12,Peng Chau Outline Zoning Plan,OZP,50
-I-SHW,Siu Ho Wan,Siu Ho Wan,New Territories and Islands,S/I-SHW/2,Siu Ho Wan Outline Zoning Plan,OZP,51
-I-SKC,Shek Kwu Chau,Shek Kwu Chau,New Territories and Islands,S/I-SKC/2,Shek Kwu Chau Outline Zoning Plan,OZP,52
-I-TCE,Tung Chung Extension Area,Tung Chung Extension Area,New Territories and Islands,S/I-TCE/2,Tung Chung Extension Area Outline Zoning Plan,OZP,53
-I-TCTC,Tung Chung Town Centre Area,Tung Chung Town Centre Area,New Territories and Islands,S/I-TCTC/23,Tung Chung Town Centre Area Outline Zoning Plan,OZP,54
-I-TOTC,Tai O Town Centre Area,Tai O Town Centre Area,New Territories and Islands,S/I-TOTC/2,Tai O Town Centre Area Outline Zoning Plan,OZP,55
-KC,Kwai Chung,Kwai Chung,New Territories and Islands,S/KC/29,Kwai Chung Outline Zoning Plan,OZP,56
-KTN,Kwu Tung North,Kwu Tung North,New Territories and Islands,S/KTN/2,Kwu Tung North Outline Zoning Plan,OZP,57
-LMCL,Lok Ma Chau Loop,Lok Ma Chau Loop,New Territories and Islands,S/LMCL/2,Lok Ma Chau Loop Outline Zoning Plan,OZP,58
-MOS,Ma On Shan,Ma On Shan,New Territories and Islands,S/MOS/22,Ma On Shan Outline Zoning Plan,OZP,59
-PSK,Pak Shek Kok (East),Pak Shek Kok (East),New Territories and Islands,S/PSK/13,Pak Shek Kok (East) Outline Zoning Plan,OZP,60
-SC,Stonecutters Island,Stonecutters Island,New Territories and Islands,S/SC/10,Stonecutters Island Outline Zoning Plan,OZP,61
-SK-SKT,Sai Kung Town,Sai Kung Town,New Territories and Islands,S/SK-SKT/6,Sai Kung Town Outline Zoning Plan,OZP,62
-SLC,South Lantau Coast,South Lantau Coast,New Territories and Islands,S/SLC/21,South Lantau Coast Outline Zoning Plan,OZP,63
-ST,Sha Tin,Sha Tin,New Territories and Islands,S/ST/34,Sha Tin Outline Zoning Plan,OZP,64
-TKO,Tseung Kwan O,Tseung Kwan O,New Territories and Islands,S/TKO/27,Tseung Kwan O Outline Zoning Plan,OZP,65
-TM,Tuen Mun,Tuen Mun,New Territories and Islands,S/TM/35,Tuen Mun Outline Zoning Plan,OZP,66
-TP,Tai Po,Tai Po,New Territories and Islands,S/TP/28,Tai Po Outline Zoning Plan,OZP,67
-TSW,Tin Shui Wai,Tin Shui Wai,New Territories and Islands,S/TSW/14,Tin Shui Wai Outline Zoning Plan,OZP,68
-TW,Tsuen Wan,Tsuen Wan,New Territories and Islands,S/TW/33,Tsuen Wan Outline Zoning Plan,OZP,69
-TWW,Tsuen Wan West,Tsuen Wan West,New Territories and Islands,S/TWW/19,Tsuen Wan West Outline Zoning Plan,OZP,70
-TY,Tsing Yi,Tsing Yi,New Territories and Islands,S/TY/30,Tsing Yi Outline Zoning Plan,OZP,71
-YL,Yuen Long,Yuen Long,New Territories and Islands,S/YL/23,Yuen Long Outline Zoning Plan,OZP,72
-TW-CLHFS,Chuen Lung and Ha Fa Shan,Chuen Lung and Ha Fa Shan,Tsuen Wan and West Kowloon District Planning Office,S/TW-CLHFS/1,Chuen Lung and Ha Fa Shan Outline Zoning Plan,ROZP,73
-NE-CK,Chek Keng,Chek Keng,"Sha Tin, Tai Po & North District Planning Office",S/NE-CK/2,Chek Keng Outline Zoning Plan,ROZP,74
-NE-CS,Cheung Sheung,Cheung Sheung,"Sha Tin, Tai Po & North District Planning Office",S/NE-CS/2,Cheung Sheung Outline Zoning Plan,ROZP,75
-NE-FTA,Fu Tei Au & Sha Ling,Fu Tei Au & Sha Ling,"Sha Tin, Tai Po & North District Planning Office",S/NE-FTA/16,Fu Tei Au & Sha Ling Outline Zoning Plan,ROZP,76
-NE-HH,Hoi Ha,Hoi Ha,"Sha Tin, Tai Po & North District Planning Office",S/NE-HH/3,Hoi Ha Outline Zoning Plan,ROZP,77
-NE-HLH,Hung Lung Hang,Hung Lung Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-HLH/11,Hung Lung Hang Outline Zoning Plan,ROZP,78
-NE-HT,Hok Tau,Hok Tau,"Sha Tin, Tai Po & North District Planning Office",S/NE-HT/5,Hok Tau Outline Zoning Plan,ROZP,79
-NE-KLH,Kau Lung Hang,Kau Lung Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-KLH/11,Kau Lung Hang Outline Zoning Plan,ROZP,80
-NE-KLW,Ko Lau Wan,Ko Lau Wan,"Sha Tin, Tai Po & North District Planning Office",S/NE-KLW/2,Ko Lau Wan Outline Zoning Plan,ROZP,81
-NE-KP,"Kuk Po, Fung Hang and Yung Shue Au","Kuk Po, Fung Hang and Yung Shue Au","Sha Tin, Tai Po & North District Planning Office",S/NE-KP/2,"Kuk Po, Fung Hang and Yung Shue Au Outline Zoning Plan",ROZP,82
-NE-LCW,"Lai Chi Wo, Siu Tan and Sam A Tsuen","Lai Chi Wo, Siu Tan and Sam A Tsuen","Sha Tin, Tai Po & North District Planning Office",S/NE-LCW/2,"Lai Chi Wo, Siu Tan and Sam A Tsuen Outline Zoning Plan",ROZP,83
-NE-LK,Luk Keng,Luk Keng & Wo Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-LK/11,Luk Keng & Wo Hang Outline Zoning Plan,ROZP,84
-NE-LMH,Lin Ma Hang,Lin Ma Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-LMH/2,Lin Ma Hang Outline Zoning Plan,ROZP,85
-NE-LT,Lam Tsuen,Lam Tsuen,"Sha Tin, Tai Po & North District Planning Office",S/NE-LT/11,Lam Tsuen Outline Zoning Plan,ROZP,86
-NE-LYT,Lung Yeuk Tau & Kwan Tei South,Lung Yeuk Tau & Kwan Tei South,"Sha Tin, Tai Po & North District Planning Office",S/NE-LYT/17,Lung Yeuk Tau & Kwan Tei South Outline Zoning Plan,ROZP,87
-NE-MKT,Man Kam To,Man Kam To,"Sha Tin, Tai Po & North District Planning Office",S/NE-MKT/4,Man Kam To Outline Zoning Plan,ROZP,88
-NE-MTL,Ma Tso Lung and Hoo Hok Wai,Ma Tso Lung and Hoo Hok Wai,"Sha Tin, Tai Po & North District Planning Office",S/NE-MTL/3,Ma Tso Lung and Hoo Hok Wai Outline Zoning Plan,ROZP,89
-NE-MUP,Man Uk Pin,Man Uk Pin,"Sha Tin, Tai Po & North District Planning Office",S/NE-MUP/11,Man Uk Pin Outline Zoning Plan,ROZP,90
-NE-PC,Ping Chau,Ping Chau,"Sha Tin, Tai Po & North District Planning Office",S/NE-PC/1,Ping Chau Outline Zoning Plan,ROZP,91
-NE-PK,Ping Kong,Ping Kong,"Sha Tin, Tai Po & North District Planning Office",S/NE-PK/11,Ping Kong Outline Zoning Plan,ROZP,92
-NE-PSO,Pak Sha O,Pak Sha O,"Sha Tin, Tai Po & North District Planning Office",S/NE-PSO/2,Pak Sha O Outline Zoning Plan,ROZP,93
-NE-SC,Sham Chung,Sham Chung,"Sha Tin, Tai Po & North District Planning Office",S/NE-SC/3,Sham Chung Outline Zoning Plan,ROZP,94
-NE-SLP,So Lo Pun,So Lo Pun,"Sha Tin, Tai Po & North District Planning Office",S/NE-SLP/3,So Lo Pun Outline Zoning Plan,ROZP,95
-NE-SLT,Sha Lo Tung,Sha Lo Tung,"Sha Tin, Tai Po & North District Planning Office",S/NE-SLT/4,Sha Lo Tung Outline Zoning Plan,ROZP,96
-NE-SSH,Shap Sz Heung,Shap Sz Heung,"Sha Tin, Tai Po & North District Planning Office",S/NE-SSH/11,Shap Sz Heung Outline Zoning Plan,ROZP,97
-NE-STK,Sha Tau Kok,Sha Tau Kok,"Sha Tin, Tai Po & North District Planning Office",S/NE-STK/2,Sha Tau Kok Outline Zoning Plan,ROZP,98
-NE-TK,Ting Kok,Ting Kok,"Sha Tin, Tai Po & North District Planning Office",S/NE-TK/19,Ting Kok Outline Zoning Plan,ROZP,99
-NE-TKL,Ping Che & Ta Kwu Ling,Ping Che & Ta Kwu Ling,"Sha Tin, Tai Po & North District Planning Office",S/NE-TKL/14,Ping Che & Ta Kwu Ling Outline Zoning Plan,ROZP,100
-NE-TKLN,Ta Kwu Ling North,Ta Kwu Ling North,"Sha Tin, Tai Po & North District Planning Office",S/NE-TKLN/2,Ta Kwu Ling North Outline Zoning Plan,ROZP,101
-NE-TKP,To Kwa Peng and Pak Tam Au,To Kwa Peng and Pak Tam Au,"Sha Tin, Tai Po & North District Planning Office",S/NE-TKP/2,To Kwa Peng and Pak Tam Au Outline Zoning Plan,ROZP,102
-NE-TPK,Tai Po Kau,Tai Po Kau,"Sha Tin, Tai Po & North District Planning Office",S/NE-TPK/2,Tai Po Kau Outline Zoning Plan,ROZP,103
-NE-TT,"Tai Tan, Uk Tau, Ko Tong and Ko Tong Ha Yeung","Tai Tan, Uk Tau, Ko Tong and Ko Tong Ha Yeung","Sha Tin, Tai Po & North District Planning Office",S/NE-TT/2,"Tai Tan, Uk Tau, Ko Tong and Ko Tong Ha Yeung Outline Zoning Plan",ROZP,104
-NE-WKS,Wo Keng Shan,Wo Keng Shan,"Sha Tin, Tai Po & North District Planning Office",S/NE-WKS/10,Wo Keng Shan Outline Zoning Plan,ROZP,105
-NE-WKT,Wu Kau Tang,Wu Kau Tang,"Sha Tin, Tai Po & North District Planning Office",S/NE-WKT/6,Wu Kau Tang Outline Zoning Plan,ROZP,106
-NE-YSO,Yung Shue O,Yung Shue O,"Sha Tin, Tai Po & North District Planning Office",S/NE-YSO/2,Yung Shue O Outline Zoning Plan,ROZP,107
-NE-YTT,Yim Tin Tsai and Ma Shi Chau,Yim Tin Tsai and Ma Shi Chau,"Sha Tin, Tai Po & North District Planning Office",S/NE-YTT/2,Yim Tin Tsai and Ma Shi Chau Outline Zoning Plan,ROZP,108
-ST-KYS,Kwun Yam Sha & Fa Sam Hang,Kwun Yam Sha & Fa Sam Hang,"Sha Tin, Tai Po & North District Planning Office",S/ST-KYS/11,Kwun Yam Sha & Fa Sam Hang Outline Zoning Plan,ROZP,109
-ST-MP,Mau Ping,Mau Ping,"Sha Tin, Tai Po & North District Planning Office",S/ST-MP/2,Mau Ping Outline Zoning Plan,ROZP,110
-NE-KTS,Kwu Tung South,Kwu Tung South,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/NE-KTS/16,Kwu Tung South Outline Zoning Plan,ROZP,111
-YL-KTN,Kam Tin North,Kam Tin North,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-KTN/9,Kam Tin North Outline Zoning Plan,ROZP,112
-YL-KTS,Kam Tin South,Kam Tin South,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-KTS/15,Kam Tin South Outline Zoning Plan,ROZP,113
-YL-MP,Mai Po & Fairview Park,Mai Po & Fairview Park,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-MP/6,Mai Po & Fairview Park Outline Zoning Plan,ROZP,114
-YL-NSW,Nam Sang Wai,Nam Sang Wai,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-NSW/8,Nam Sang Wai Outline Zoning Plan,ROZP,115
-YL-NTM,Ngau Tam Mei,Ngau Tam Mei,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-NTM/12,Ngau Tam Mei Outline Zoning Plan,ROZP,116
-YL-PH,Pat Heung,Pat Heung,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-PH/11,Pat Heung Outline Zoning Plan,ROZP,117
-YL-SK,Shek Kong,Shek Kong,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-SK/9,Shek Kong Outline Zoning Plan,ROZP,118
-YL-ST,San Tin,San Tin,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-ST/8,San Tin Outline Zoning Plan,ROZP,119
-I-LWKS,Luk Wu and Keung Shan,Luk Wu and Keung Shan,Sai Kung & Islands District Planning Office,S/I-LWKS/2,Luk Wu and Keung Shan Outline Zoning Plan,ROZP,120
-I-MWF,Mui Wo Fringe,Mui Wo Fringe,Sai Kung & Islands District Planning Office,S/I-MWF/10,Mui Wo Fringe Outline Zoning Plan,ROZP,121
-I-NP,Ngong Ping,Ngong Ping,Sai Kung & Islands District Planning Office,S/I-NP/6,Ngong Ping Outline Zoning Plan,ROZP,122
-I-PTI,Po Toi Islands,Po Toi Islands,Sai Kung & Islands District Planning Office,S/I-PTI/2,Po Toi Islands Outline Zoning Plan,ROZP,123
-I-TH,Tai Ho,Tai Ho,Sai Kung & Islands District Planning Office,S/I-TH/1,Tai Ho Outline Zoning Plan,ROZP,124
-I-TCV,Tung Chung Valley,Tung Chung Valley,Sai Kung & Islands District Planning Office,S/I-TCV/2,Tung Chung Valley Outline Zoning Plan,ROZP,125
-I-TOF,Tai O Fringe,Tai O Fringe,Sai Kung & Islands District Planning Office,S/I-TOF/2,Tai O Fringe Outline Zoning Plan,ROZP,126
-I-YO,YI O,Yi O,Sai Kung & Islands District Planning Office,S/I-YO/2,YI O Outling Zoning Plan,ROZP,127
-SK-CWBN,Clear Water Bay,Clear Water Bay Peninsula North,Sai Kung & Islands District Planning Office,S/SK-CWBN/6,Clear Water Bay Peninsula North Outline Zoning Plan,ROZP,128
-SK-CWBS,Clear Water Bay,Clear Water Bay Peninsula South,Sai Kung & Islands District Planning Office,S/SK-CWBS/2,Clear Water Bay Peninsula South Outline Zoning Plan,ROZP,129
-SK-HC,Ho Chung,Ho Chung,Sai Kung & Islands District Planning Office,S/SK-HC/11,Ho Chung Outline Zoning Plan,ROZP,130
-SK-HH,Hebe Haven,Hebe Haven,Sai Kung & Islands District Planning Office,S/SK-HH/8,Hebe Haven Outline Zoning Plan,ROZP,131
-SK-PK,Pak Kong & Sha Kok Mei,Pak Kong & Sha Kok Mei,Sai Kung & Islands District Planning Office,S/SK-PK/11,Pak Kong & Sha Kok Mei Outline Zoning Plan,ROZP,132
-SK-PL,Pak Lap,Pak Lap,Sai Kung & Islands District Planning Office,S/SK-PL/3,Pak Lap Outline Zoning Plan,ROZP,133
-SK-TA,Tung A and Pak A,Tung A and Pak A,Sai Kung & Islands District Planning Office,S/SK-TA/2,Tung A and Pak A Outline Zoning Plan,ROZP,134
-SK-TLS,Tseng Lan Shue,Tseng Lan Shue,Sai Kung & Islands District Planning Office,S/SK-TLS/8,Tseng Lan Shue Outline Zoning Plan,ROZP,135
-SK-TLW,Tai Long Wan,Tai Long Wan,Sai Kung & Islands District Planning Office,S/SK-TLW/5,Tai Long Wan Outline Zoning Plan,ROZP,136
-SK-TMT,Tai Mong Tsai,Tai Mong Tsai & Tsam Chuk Wan,Sai Kung & Islands District Planning Office,S/SK-TMT/4,Tai Mong Tsai & Tsam Chuk Wan Outline Zoning Plan,ROZP,137
-TM-LTYY,Lam Tei ,Lam Tei and Yick Yuen,Tuen Mun & Yuen Long West District Planning Office,S/TM-LTYY/10,Lam Tei and Yick Yuen Outline Zoning Plan,ROZP,138
-TM-SKW,So Kwun Wat,So Kwun Wat,Tuen Mun & Yuen Long West District Planning Office,S/TM-SKW/13,So Kwun Wat Outline Zoning Plan,ROZP,139
-TM-TFT,Tin Fu Tsai,Tin Fu Tsai,Tuen Mun & Yuen Long West District Planning Office,S/TM-TFT/2,Tin Fu Tsai Outline Zoning Plan,ROZP,140
-YL-HTF,Ha Tsuen Fringe,Ha Tsuen Fringe,Tuen Mun & Yuen Long West District Planning Office,S/YL-HTF/12,Ha Tsuen Fringe Outline Zoning Plan,ROZP,141
-YL-LFS,Lau Fau Shan,Lau Fau Shan & Tsim Bei Tsui,Tuen Mun & Yuen Long West District Planning Office,S/YL-LFS/9,Lau Fau Shan & Tsim Bei Tsui Outline Zoning Plan,ROZP,142
-YL-PN,Sheung Pak Nai & Ha Pak Nai,Sheung Pak Nai & Ha Pak Nai,Tuen Mun & Yuen Long West District Planning Office,S/YL-PN/9,Sheung Pak Nai & Ha Pak Nai Outline Zoning Plan,ROZP,143
-YL-PS,Ping Shan,Ping Shan,Tuen Mun & Yuen Long West District Planning Office,S/YL-PS/18,Ping Shan Outline Zoning Plan,ROZP,144
-YL-TT,Tai Tong,Tai Tong,Tuen Mun & Yuen Long West District Planning Office,S/YL-TT/17,Tai Tong Outline Zoning Plan,ROZP,145
-YL-TYST,Tong Yan San Tsuen,Tong Yan San Tsuen,Tuen Mun & Yuen Long West District Planning Office,S/YL-TYST/13,Tong Yan San Tsuen Outline Zoning Plan,ROZP,146
+area_code,location_edit,location,office,plan_no,title,type,map_index,Distrist,distrist_index
+H1,Kennedy Town,Kennedy Town & Mount Davis (HPA 1),Hong Kong Planning Areas,S/H1/20,Kennedy Town & Mount Davis (HPA 1) Outline Zoning Plan,OZP,1,Central & Western,0
+H3,Sai Ying Pun,Sai Ying Pun & Sheung Wan (HPA 3),Hong Kong Planning Areas,S/H3/33,Sai Ying Pun & Sheung Wan (HPA 3) Outline Zoning Plan,OZP,2,Central & Western,0
+H4,Central District,Central District (HPA 4),Hong Kong Planning Areas,S/H4/17,Central District (HPA 4) Outline Zoning Plan,OZP,3,Central & Western,0
+H5,Wan Chai,Wan Chai (HPA 5),Hong Kong Planning Areas,S/H5/28,Wan Chai (HPA 5) Outline Zoning Plan,OZP,4,Wan Chai,0
+H6,Causeway Bay,Causeway Bay (HPA 6),Hong Kong Planning Areas,S/H6/17,Causeway Bay (HPA 6) Outline Zoning Plan,OZP,5,Wan Chai,0
+H7,Wong Nai Chung,Wong Nai Chung (HPA 7),Hong Kong Planning Areas,S/H7/20,Wong Nai Chung (HPA 7) Outline Zoning Plan,OZP,6,Wan Chai,0
+H8,North Point,North Point (HPA 8),Hong Kong Planning Areas,S/H8/26,North Point (HPA 8) Outline Zoning Plan,OZP,7,Eastern,0
+H9,Shau Kei Wan,Shau Kei Wan (HPA 9),Hong Kong Planning Areas,S/H9/18,Shau Kei Wan (HPA 9) Outline Zoning Plan,OZP,8,Eastern,0
+H10,Pok Fu Lam,Pok Fu Lam (HPA 10),Hong Kong Planning Areas,S/H10/18,Pok Fu Lam (HPA 10) Outline Zoning Plan,OZP,9,Southern,0
+H11,Mid-levels West,Mid-levels West (HPA 11),Hong Kong Planning Areas,S/H11/15,Mid-levels West (HPA 11) Outline Zoning Plan,OZP,10,Central & Western,0
+H12,Mid-levels East,Mid-levels East (HPA 12),Hong Kong Planning Areas,S/H12/12,Mid-levels East (HPA 12) Outline Zoning Plan,OZP,11,Central & Western,0
+H13,Jardine's Lookout & Wong Nai Chung Gap,Jardine's Lookout & Wong Nai Chung Gap (HPA 13),Hong Kong Planning Areas,S/H13/12,Jardine's Lookout & Wong Nai Chung Gap (HPA 13) Outline Zoning Plan,OZP,12,Wan Chai,0
+H14,Peak,The Peak Area (HPA 14),Hong Kong Planning Areas,S/H14/13,The Peak Area (HPA 14) Outline Zoning Plan,OZP,13,Central & Western,0
+H15,Aberdeen and Ap Lei Chau,Aberdeen and Ap Lei Chau (HPA 15 & 16),Hong Kong Planning Areas,S/H15/33,Aberdeen and Ap Lei Chau (HPA 15 & 16) Outline Zoning Plan,OZP,14,Southern,0
+H17,Shouson Hill & Repulse Bay,Shouson Hill & Repulse Bay (HPA 17 Pt.),Hong Kong Planning Areas,S/H17/13,Shouson Hill & Repulse Bay (HPA 17 Pt.) Outline Zoning Plan,OZP,15,Southern,0
+H18,Tai Tam & Shek O,Tai Tam & Shek O (HPA 18),Hong Kong Planning Areas,S/H18/10,Tai Tam & Shek O (HPA 18) Outline Zoning Plan,OZP,16,Southern,0
+H19,Stanley,Stanley (HPA 19),Hong Kong Planning Areas,S/H19/13,Stanley (HPA 19) Outline Zoning Plan,OZP,17,Southern,0
+H20,Chai Wan,Chai Wan (HPA 20),Hong Kong Planning Areas,S/H20/24,Chai Wan (HPA 20) Outline Zoning Plan,OZP,18,Eastern,0
+H21,Quarry Bay,Quarry Bay (HPA 21),Hong Kong Planning Areas,S/H21/28,Quarry Bay (HPA 21) Outline Zoning Plan,OZP,19,Eastern,0
+H24,Central District,Central District (Extension) (HPA 24),Hong Kong Planning Areas,S/H24/9,Central District (Extension) (HPA 24) Outline Zoning Plan,OZP,20,Central & Western,0
+H25,Wan Chai North,Wan Chai North (HPA 25),Hong Kong Planning Areas,S/H25/4,Wan Chai North (HPA 25) Outline Zoning Plan,OZP,21,Wan Chai,0
+K1,Tsim Sha Tsui,Tsim Sha Tsui (KPA 1),Kowloon Planning Areas,S/K1/28,Tsim Sha Tsui (KPA 1) Outline Zoning Plan,OZP,22,Yau Tsim Mong,0
+K2,Yau Ma Tei,Yau Ma Tei (KPA 2),Kowloon Planning Areas,S/K2/22,Yau Ma Tei (KPA 2) Outline Zoning Plan,OZP,23,Yau Tsim Mong,0
+K3,Mong Kok,Mong Kok (KPA 3),Kowloon Planning Areas,S/K3/32,Mong Kok (KPA 3) Outline Zoning Plan,OZP,24,Yau Tsim Mong,0
+K4,Shek Kip Mei,Shek Kip Mei (KPA 4),Kowloon Planning Areas,S/K4/29,Shek Kip Mei (KPA 4) Outline Zoning Plan,OZP,25,Sham Shui Po,0
+K5,Cheung Sha Wan,Cheung Sha Wan (KPA 5),Kowloon Planning Areas,S/K5/37,Cheung Sha Wan (KPA 5) Outline Zoning Plan,OZP,26,Sham Shui Po,0
+K7,Ho Man Tin,Ho Man Tin (KPA 6 & 7),Kowloon Planning Areas,S/K7/24,Ho Man Tin (KPA 6 & 7) Outline Zoning Plan,OZP,27,Kowloon City,0
+K8,Tung Tau,Wang Tau Hom & Tung Tau (KPA 8),Kowloon Planning Areas,S/K8/23,Wang Tau Hom & Tung Tau (KPA 8) Outline Zoning Plan,OZP,28,Wong Tai Sin,0
+K9,Hung Hom,Hung Hom (KPA 9),Kowloon Planning Areas,S/K9/26,Hung Hom (KPA 9) Outline Zoning Plan,OZP,29,Kowloon City,0
+K10,Ma Tau Kok,Ma Tau Kok (KPA 10),Kowloon Planning Areas,S/K10/25,Ma Tau Kok (KPA 10) Outline Zoning Plan,OZP,30,Kowloon City,0
+K11,San Po Kong,"Tsz Wan Shan, Diamond Hill & San Po Kong (KPA 11)",Kowloon Planning Areas,S/K11/29,"Tsz Wan Shan, Diamond Hill & San Po Kong (KPA 11) Outline Zoning Plan",OZP,31,Wong Tai Sin,0
+K12,Ngau Chi Wan,Ngau Chi Wan (KPA 12),Kowloon Planning Areas,S/K12/16,Ngau Chi Wan (KPA 12) Outline Zoning Plan,OZP,32,Wong Tai Sin,0
+K13,Kowloon Bay,Ngau Tau Kok & Kowloon Bay (KPA 13 & 17),Kowloon Planning Areas,S/K13/30,Ngau Tau Kok & Kowloon Bay (KPA 13 & 17) Outline Zoning Plan,OZP,33,Kwun Tong,0
+K14N,Kwun Tong,Kwun Tong (North) (KPA 14 Pt.),Kowloon Planning Areas,S/K14N/15,Kwun Tong (North) (KPA 14 Pt.) Outline Zoning Plan,OZP,34,Kwun Tong,0
+K14S,Kwun Tong,Kwun Tong (South) (KPA 14 Pt.),Kowloon Planning Areas,S/K14S/22,Kwun Tong (South) (KPA 14 Pt.) Outline Zoning Plan,OZP,35,Kwun Tong,0
+K15,"Cha Kwo Ling, Yau Tong, Lei Yue Mun","Cha Kwo Ling, Yau Tong, Lei Yue Mun (KPA 15)",Kowloon Planning Areas,S/K15/25,"Cha Kwo Ling, Yau Tong, Lei Yue Mun (KPA 15) Outline Zoning Plan",OZP,36,Kwun Tong,0
+K16,Lai Chi Kok,Lai Chi Kok (KPA 16),Kowloon Planning Areas,S/K16/16,Lai Chi Kok (KPA 16) Outline Zoning Plan,OZP,37,Sham Shui Po,0
+K18,Kowloon Tong,Kowloon Tong (KPA 18),Kowloon Planning Areas,S/K18/21,Kowloon Tong (KPA 18) Outline Zoning Plan,OZP,38,Kowloon City,0
+K20,South West Kowloon,South West Kowloon (KPA 20),Kowloon Planning Areas,S/K20/30,South West Kowloon (KPA 20) Outline Zoning Plan,OZP,39,Yau Tsim Mong,0
+K22,Kai Tak,Kai Tak (KPA 22),Kowloon Planning Areas,S/K22/6,Kai Tak (KPA 22) Outline Zoning Plan,OZP,40,Kowloon City,0
+FLN,Fanling North,Fanling North,New Territories and Islands,S/FLN/2,Fanling North Outline Zoning Plan,OZP,41,North,0
+FSS,Fanling / Sheung Shui,Fanling / Sheung Shui,New Territories and Islands,S/FSS/24,Fanling / Sheung Shui Outline Zoning Plan,OZP,42,North,0
+HSK,Hung Shui Kiu and Ha Tsuen,Hung Shui Kiu and Ha Tsuen,New Territories and Islands,S/HSK/2,Hung Shui Kiu and Ha Tsuen Outline Zoning Plan,OZP,43,Yuen Long,0
+I-CC,Cheung Chau,Cheung Chau,New Territories and Islands,S/I-CC/8,Cheung Chau Outline Zoning Plan,OZP,44,Islands,0
+I-CLK,Chek Lap Kok,Chek Lap Kok,New Territories and Islands,S/I-CLK/14,Chek Lap Kok Outline Zoning Plan,OZP,45,Islands,0
+I-DB,Discovery Bay,Discovery Bay,New Territories and Islands,S/I-DB/4,Discovery Bay Outline Zoning Plan,OZP,46,Islands,0
+I-LI,Lamma Island,Lamma Island,New Territories and Islands,S/I-LI/11,Lamma Island Outline Zoning Plan,OZP,47,Islands,0
+I-NEL,North-East Lantau,North-East Lantau,New Territories and Islands,S/I-NEL/12,North-East Lantau Outline Zoning Plan,OZP,48,Islands,0
+I-MWI,Ma Wan,Ma Wan,New Territories and Islands,S/I-MWI/14,Ma Wan Outline Zoning Plan,OZP,49,Tsuen Wan,0
+I-PC,Peng Chau,Peng Chau,New Territories and Islands,S/I-PC/12,Peng Chau Outline Zoning Plan,OZP,50,Islands,0
+I-SHW,Siu Ho Wan,Siu Ho Wan,New Territories and Islands,S/I-SHW/2,Siu Ho Wan Outline Zoning Plan,OZP,51,Islands,0
+I-SKC,Shek Kwu Chau,Shek Kwu Chau,New Territories and Islands,S/I-SKC/2,Shek Kwu Chau Outline Zoning Plan,OZP,52,Islands,0
+I-TCE,Tung Chung Extension Area,Tung Chung Extension Area,New Territories and Islands,S/I-TCE/2,Tung Chung Extension Area Outline Zoning Plan,OZP,53,Islands,0
+I-TCTC,Tung Chung Town Centre Area,Tung Chung Town Centre Area,New Territories and Islands,S/I-TCTC/23,Tung Chung Town Centre Area Outline Zoning Plan,OZP,54,Islands,0
+I-TOTC,Tai O Town Centre Area,Tai O Town Centre Area,New Territories and Islands,S/I-TOTC/2,Tai O Town Centre Area Outline Zoning Plan,OZP,55,Islands,0
+KC,Kwai Chung,Kwai Chung,New Territories and Islands,S/KC/29,Kwai Chung Outline Zoning Plan,OZP,56,Kwai Tsing,0
+KTN,Kwu Tung North,Kwu Tung North,New Territories and Islands,S/KTN/2,Kwu Tung North Outline Zoning Plan,OZP,57,North,0
+LMCL,Lok Ma Chau Loop,Lok Ma Chau Loop,New Territories and Islands,S/LMCL/2,Lok Ma Chau Loop Outline Zoning Plan,OZP,58,Yuen Long,0
+MOS,Ma On Shan,Ma On Shan,New Territories and Islands,S/MOS/22,Ma On Shan Outline Zoning Plan,OZP,59,Sha Tin,0
+PSK,Pak Shek Kok (East),Pak Shek Kok (East),New Territories and Islands,S/PSK/13,Pak Shek Kok (East) Outline Zoning Plan,OZP,60,,1
+SC,Stonecutters Island,Stonecutters Island,New Territories and Islands,S/SC/10,Stonecutters Island Outline Zoning Plan,OZP,61,Sham Shui Po,0
+SK-SKT,Sai Kung Town,Sai Kung Town,New Territories and Islands,S/SK-SKT/6,Sai Kung Town Outline Zoning Plan,OZP,62,Sai Kung,0
+SLC,South Lantau Coast,South Lantau Coast,New Territories and Islands,S/SLC/21,South Lantau Coast Outline Zoning Plan,OZP,63,,1
+ST,Sha Tin,Sha Tin,New Territories and Islands,S/ST/34,Sha Tin Outline Zoning Plan,OZP,64,Sha Tin,0
+TKO,Tseung Kwan O,Tseung Kwan O,New Territories and Islands,S/TKO/27,Tseung Kwan O Outline Zoning Plan,OZP,65,Sai Kung,0
+TM,Tuen Mun,Tuen Mun,New Territories and Islands,S/TM/35,Tuen Mun Outline Zoning Plan,OZP,66,Tuen Mun,0
+TP,Tai Po,Tai Po,New Territories and Islands,S/TP/28,Tai Po Outline Zoning Plan,OZP,67,Tai Po,0
+TSW,Tin Shui Wai,Tin Shui Wai,New Territories and Islands,S/TSW/14,Tin Shui Wai Outline Zoning Plan,OZP,68,Yuen Long,0
+TW,Tsuen Wan,Tsuen Wan,New Territories and Islands,S/TW/33,Tsuen Wan Outline Zoning Plan,OZP,69,Tsuen Wan,0
+TWW,Tsuen Wan West,Tsuen Wan West,New Territories and Islands,S/TWW/19,Tsuen Wan West Outline Zoning Plan,OZP,70,Tsuen Wan,0
+TY,Tsing Yi,Tsing Yi,New Territories and Islands,S/TY/30,Tsing Yi Outline Zoning Plan,OZP,71,Kwai Tsing,0
+YL,Yuen Long,Yuen Long,New Territories and Islands,S/YL/23,Yuen Long Outline Zoning Plan,OZP,72,Yuen Long,0
+TW-CLHFS,Chuen Lung and Ha Fa Shan,Chuen Lung and Ha Fa Shan,Tsuen Wan and West Kowloon District Planning Office,S/TW-CLHFS/1,Chuen Lung and Ha Fa Shan Outline Zoning Plan,ROZP,73,,1
+NE-CK,Chek Keng,Chek Keng,"Sha Tin, Tai Po & North District Planning Office",S/NE-CK/2,Chek Keng Outline Zoning Plan,ROZP,74,,1
+NE-CS,Cheung Sheung,Cheung Sheung,"Sha Tin, Tai Po & North District Planning Office",S/NE-CS/2,Cheung Sheung Outline Zoning Plan,ROZP,75,,1
+NE-FTA,Fu Tei Au & Sha Ling,Fu Tei Au & Sha Ling,"Sha Tin, Tai Po & North District Planning Office",S/NE-FTA/16,Fu Tei Au & Sha Ling Outline Zoning Plan,ROZP,76,,1
+NE-HH,Hoi Ha,Hoi Ha,"Sha Tin, Tai Po & North District Planning Office",S/NE-HH/3,Hoi Ha Outline Zoning Plan,ROZP,77,,1
+NE-HLH,Hung Lung Hang,Hung Lung Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-HLH/11,Hung Lung Hang Outline Zoning Plan,ROZP,78,,1
+NE-HT,Hok Tau,Hok Tau,"Sha Tin, Tai Po & North District Planning Office",S/NE-HT/5,Hok Tau Outline Zoning Plan,ROZP,79,,1
+NE-KLH,Kau Lung Hang,Kau Lung Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-KLH/11,Kau Lung Hang Outline Zoning Plan,ROZP,80,,1
+NE-KLW,Ko Lau Wan,Ko Lau Wan,"Sha Tin, Tai Po & North District Planning Office",S/NE-KLW/2,Ko Lau Wan Outline Zoning Plan,ROZP,81,,1
+NE-KP,"Kuk Po, Fung Hang and Yung Shue Au","Kuk Po, Fung Hang and Yung Shue Au","Sha Tin, Tai Po & North District Planning Office",S/NE-KP/2,"Kuk Po, Fung Hang and Yung Shue Au Outline Zoning Plan",ROZP,82,,1
+NE-LCW,"Lai Chi Wo, Siu Tan and Sam A Tsuen","Lai Chi Wo, Siu Tan and Sam A Tsuen","Sha Tin, Tai Po & North District Planning Office",S/NE-LCW/2,"Lai Chi Wo, Siu Tan and Sam A Tsuen Outline Zoning Plan",ROZP,83,,1
+NE-LK,Luk Keng,Luk Keng & Wo Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-LK/11,Luk Keng & Wo Hang Outline Zoning Plan,ROZP,84,North,0
+NE-LMH,Lin Ma Hang,Lin Ma Hang,"Sha Tin, Tai Po & North District Planning Office",S/NE-LMH/2,Lin Ma Hang Outline Zoning Plan,ROZP,85,,1
+NE-LT,Lam Tsuen,Lam Tsuen,"Sha Tin, Tai Po & North District Planning Office",S/NE-LT/11,Lam Tsuen Outline Zoning Plan,ROZP,86,,1
+NE-LYT,Lung Yeuk Tau & Kwan Tei South,Lung Yeuk Tau & Kwan Tei South,"Sha Tin, Tai Po & North District Planning Office",S/NE-LYT/17,Lung Yeuk Tau & Kwan Tei South Outline Zoning Plan,ROZP,87,,1
+NE-MKT,Man Kam To,Man Kam To,"Sha Tin, Tai Po & North District Planning Office",S/NE-MKT/4,Man Kam To Outline Zoning Plan,ROZP,88,,1
+NE-MTL,Ma Tso Lung and Hoo Hok Wai,Ma Tso Lung and Hoo Hok Wai,"Sha Tin, Tai Po & North District Planning Office",S/NE-MTL/3,Ma Tso Lung and Hoo Hok Wai Outline Zoning Plan,ROZP,89,,1
+NE-MUP,Man Uk Pin,Man Uk Pin,"Sha Tin, Tai Po & North District Planning Office",S/NE-MUP/11,Man Uk Pin Outline Zoning Plan,ROZP,90,,1
+NE-PC,Ping Chau,Ping Chau,"Sha Tin, Tai Po & North District Planning Office",S/NE-PC/1,Ping Chau Outline Zoning Plan,ROZP,91,,1
+NE-PK,Ping Kong,Ping Kong,"Sha Tin, Tai Po & North District Planning Office",S/NE-PK/11,Ping Kong Outline Zoning Plan,ROZP,92,,1
+NE-PSO,Pak Sha O,Pak Sha O,"Sha Tin, Tai Po & North District Planning Office",S/NE-PSO/2,Pak Sha O Outline Zoning Plan,ROZP,93,,1
+NE-SC,Sham Chung,Sham Chung,"Sha Tin, Tai Po & North District Planning Office",S/NE-SC/3,Sham Chung Outline Zoning Plan,ROZP,94,,1
+NE-SLP,So Lo Pun,So Lo Pun,"Sha Tin, Tai Po & North District Planning Office",S/NE-SLP/3,So Lo Pun Outline Zoning Plan,ROZP,95,,1
+NE-SLT,Sha Lo Tung,Sha Lo Tung,"Sha Tin, Tai Po & North District Planning Office",S/NE-SLT/4,Sha Lo Tung Outline Zoning Plan,ROZP,96,,1
+NE-SSH,Shap Sz Heung,Shap Sz Heung,"Sha Tin, Tai Po & North District Planning Office",S/NE-SSH/11,Shap Sz Heung Outline Zoning Plan,ROZP,97,,1
+NE-STK,Sha Tau Kok,Sha Tau Kok,"Sha Tin, Tai Po & North District Planning Office",S/NE-STK/2,Sha Tau Kok Outline Zoning Plan,ROZP,98,North,0
+NE-TK,Ting Kok,Ting Kok,"Sha Tin, Tai Po & North District Planning Office",S/NE-TK/19,Ting Kok Outline Zoning Plan,ROZP,99,,1
+NE-TKL,Ping Che & Ta Kwu Ling,Ping Che & Ta Kwu Ling,"Sha Tin, Tai Po & North District Planning Office",S/NE-TKL/14,Ping Che & Ta Kwu Ling Outline Zoning Plan,ROZP,100,,1
+NE-TKLN,Ta Kwu Ling North,Ta Kwu Ling North,"Sha Tin, Tai Po & North District Planning Office",S/NE-TKLN/2,Ta Kwu Ling North Outline Zoning Plan,ROZP,101,,1
+NE-TKP,To Kwa Peng and Pak Tam Au,To Kwa Peng and Pak Tam Au,"Sha Tin, Tai Po & North District Planning Office",S/NE-TKP/2,To Kwa Peng and Pak Tam Au Outline Zoning Plan,ROZP,102,,1
+NE-TPK,Tai Po Kau,Tai Po Kau,"Sha Tin, Tai Po & North District Planning Office",S/NE-TPK/2,Tai Po Kau Outline Zoning Plan,ROZP,103,Tai Po,0
+NE-TT,"Tai Tan, Uk Tau, Ko Tong and Ko Tong Ha Yeung","Tai Tan, Uk Tau, Ko Tong and Ko Tong Ha Yeung","Sha Tin, Tai Po & North District Planning Office",S/NE-TT/2,"Tai Tan, Uk Tau, Ko Tong and Ko Tong Ha Yeung Outline Zoning Plan",ROZP,104,,1
+NE-WKS,Wo Keng Shan,Wo Keng Shan,"Sha Tin, Tai Po & North District Planning Office",S/NE-WKS/10,Wo Keng Shan Outline Zoning Plan,ROZP,105,,1
+NE-WKT,Wu Kau Tang,Wu Kau Tang,"Sha Tin, Tai Po & North District Planning Office",S/NE-WKT/6,Wu Kau Tang Outline Zoning Plan,ROZP,106,North,0
+NE-YSO,Yung Shue O,Yung Shue O,"Sha Tin, Tai Po & North District Planning Office",S/NE-YSO/2,Yung Shue O Outline Zoning Plan,ROZP,107,,1
+NE-YTT,Yim Tin Tsai and Ma Shi Chau,Yim Tin Tsai and Ma Shi Chau,"Sha Tin, Tai Po & North District Planning Office",S/NE-YTT/2,Yim Tin Tsai and Ma Shi Chau Outline Zoning Plan,ROZP,108,,1
+ST-KYS,Kwun Yam Sha & Fa Sam Hang,Kwun Yam Sha & Fa Sam Hang,"Sha Tin, Tai Po & North District Planning Office",S/ST-KYS/11,Kwun Yam Sha & Fa Sam Hang Outline Zoning Plan,ROZP,109,,1
+ST-MP,Mau Ping,Mau Ping,"Sha Tin, Tai Po & North District Planning Office",S/ST-MP/2,Mau Ping Outline Zoning Plan,ROZP,110,,1
+NE-KTS,Kwu Tung South,Kwu Tung South,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/NE-KTS/16,Kwu Tung South Outline Zoning Plan,ROZP,111,,1
+YL-KTN,Kam Tin North,Kam Tin North,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-KTN/9,Kam Tin North Outline Zoning Plan,ROZP,112,Yuen Long,0
+YL-KTS,Kam Tin South,Kam Tin South,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-KTS/15,Kam Tin South Outline Zoning Plan,ROZP,113,Yuen Long,0
+YL-MP,Mai Po & Fairview Park,Mai Po & Fairview Park,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-MP/6,Mai Po & Fairview Park Outline Zoning Plan,ROZP,114,,1
+YL-NSW,Nam Sang Wai,Nam Sang Wai,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-NSW/8,Nam Sang Wai Outline Zoning Plan,ROZP,115,,1
+YL-NTM,Ngau Tam Mei,Ngau Tam Mei,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-NTM/12,Ngau Tam Mei Outline Zoning Plan,ROZP,116,,1
+YL-PH,Pat Heung,Pat Heung,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-PH/11,Pat Heung Outline Zoning Plan,ROZP,117,Yuen Long,0
+YL-SK,Shek Kong,Shek Kong,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-SK/9,Shek Kong Outline Zoning Plan,ROZP,118,Yuen Long,0
+YL-ST,San Tin,San Tin,"Fanling, Sheung Shui & Yuen Long East District Planning Office",S/YL-ST/8,San Tin Outline Zoning Plan,ROZP,119,Yuen Long,0
+I-LWKS,Luk Wu and Keung Shan,Luk Wu and Keung Shan,Sai Kung & Islands District Planning Office,S/I-LWKS/2,Luk Wu and Keung Shan Outline Zoning Plan,ROZP,120,Islands,0
+I-MWF,Mui Wo Fringe,Mui Wo Fringe,Sai Kung & Islands District Planning Office,S/I-MWF/10,Mui Wo Fringe Outline Zoning Plan,ROZP,121,Islands,0
+I-NP,Ngong Ping,Ngong Ping,Sai Kung & Islands District Planning Office,S/I-NP/6,Ngong Ping Outline Zoning Plan,ROZP,122,Islands,0
+I-PTI,Po Toi Islands,Po Toi Islands,Sai Kung & Islands District Planning Office,S/I-PTI/2,Po Toi Islands Outline Zoning Plan,ROZP,123,Islands,0
+I-TH,Tai Ho,Tai Ho,Sai Kung & Islands District Planning Office,S/I-TH/1,Tai Ho Outline Zoning Plan,ROZP,124,Islands,0
+I-TCV,Tung Chung Valley,Tung Chung Valley,Sai Kung & Islands District Planning Office,S/I-TCV/2,Tung Chung Valley Outline Zoning Plan,ROZP,125,Islands,0
+I-TOF,Tai O Fringe,Tai O Fringe,Sai Kung & Islands District Planning Office,S/I-TOF/2,Tai O Fringe Outline Zoning Plan,ROZP,126,Islands,0
+I-YO,YI O,Yi O,Sai Kung & Islands District Planning Office,S/I-YO/2,YI O Outling Zoning Plan,ROZP,127,Islands,0
+SK-CWBN,Clear Water Bay,Clear Water Bay Peninsula North,Sai Kung & Islands District Planning Office,S/SK-CWBN/6,Clear Water Bay Peninsula North Outline Zoning Plan,ROZP,128,Sai Kung,0
+SK-CWBS,Clear Water Bay,Clear Water Bay Peninsula South,Sai Kung & Islands District Planning Office,S/SK-CWBS/2,Clear Water Bay Peninsula South Outline Zoning Plan,ROZP,129,Sai Kung,0
+SK-HC,Ho Chung,Ho Chung,Sai Kung & Islands District Planning Office,S/SK-HC/11,Ho Chung Outline Zoning Plan,ROZP,130,,1
+SK-HH,Hebe Haven,Hebe Haven,Sai Kung & Islands District Planning Office,S/SK-HH/8,Hebe Haven Outline Zoning Plan,ROZP,131,,1
+SK-PK,Pak Kong & Sha Kok Mei,Pak Kong & Sha Kok Mei,Sai Kung & Islands District Planning Office,S/SK-PK/11,Pak Kong & Sha Kok Mei Outline Zoning Plan,ROZP,132,,1
+SK-PL,Pak Lap,Pak Lap,Sai Kung & Islands District Planning Office,S/SK-PL/3,Pak Lap Outline Zoning Plan,ROZP,133,,1
+SK-TA,Tung A and Pak A,Tung A and Pak A,Sai Kung & Islands District Planning Office,S/SK-TA/2,Tung A and Pak A Outline Zoning Plan,ROZP,134,,1
+SK-TLS,Tseng Lan Shue,Tseng Lan Shue,Sai Kung & Islands District Planning Office,S/SK-TLS/8,Tseng Lan Shue Outline Zoning Plan,ROZP,135,,1
+SK-TLW,Tai Long Wan,Tai Long Wan,Sai Kung & Islands District Planning Office,S/SK-TLW/5,Tai Long Wan Outline Zoning Plan,ROZP,136,,1
+SK-TMT,Tai Mong Tsai,Tai Mong Tsai & Tsam Chuk Wan,Sai Kung & Islands District Planning Office,S/SK-TMT/4,Tai Mong Tsai & Tsam Chuk Wan Outline Zoning Plan,ROZP,137,Sai Kung,0
+TM-LTYY,Lam Tei ,Lam Tei and Yick Yuen,Tuen Mun & Yuen Long West District Planning Office,S/TM-LTYY/10,Lam Tei and Yick Yuen Outline Zoning Plan,ROZP,138,,1
+TM-SKW,So Kwun Wat,So Kwun Wat,Tuen Mun & Yuen Long West District Planning Office,S/TM-SKW/13,So Kwun Wat Outline Zoning Plan,ROZP,139,Tuen Mun,0
+TM-TFT,Tin Fu Tsai,Tin Fu Tsai,Tuen Mun & Yuen Long West District Planning Office,S/TM-TFT/2,Tin Fu Tsai Outline Zoning Plan,ROZP,140,,1
+YL-HTF,Ha Tsuen Fringe,Ha Tsuen Fringe,Tuen Mun & Yuen Long West District Planning Office,S/YL-HTF/12,Ha Tsuen Fringe Outline Zoning Plan,ROZP,141,,1
+YL-LFS,Lau Fau Shan,Lau Fau Shan & Tsim Bei Tsui,Tuen Mun & Yuen Long West District Planning Office,S/YL-LFS/9,Lau Fau Shan & Tsim Bei Tsui Outline Zoning Plan,ROZP,142,Yuen Long,0
+YL-PN,Sheung Pak Nai & Ha Pak Nai,Sheung Pak Nai & Ha Pak Nai,Tuen Mun & Yuen Long West District Planning Office,S/YL-PN/9,Sheung Pak Nai & Ha Pak Nai Outline Zoning Plan,ROZP,143,,1
+YL-PS,Ping Shan,Ping Shan,Tuen Mun & Yuen Long West District Planning Office,S/YL-PS/18,Ping Shan Outline Zoning Plan,ROZP,144,,1
+YL-TT,Tai Tong,Tai Tong,Tuen Mun & Yuen Long West District Planning Office,S/YL-TT/17,Tai Tong Outline Zoning Plan,ROZP,145,,1
+YL-TYST,Tong Yan San Tsuen,Tong Yan San Tsuen,Tuen Mun & Yuen Long West District Planning Office,S/YL-TYST/13,Tong Yan San Tsuen Outline Zoning Plan,ROZP,146,,1
+,,,,,,,,,
+,,,,,,,,,54
